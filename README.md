@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Raj 👋
+# Hi, I'm Aditya 👋
 
 ### B.Tech IT Student | AI/ML & Deep Learning | Python | NLP
 
