@@ -55,38 +55,19 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
-<p align="center"><b>Data Science & Visualization</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C9AB8?style=for-the-badge" alt="Seaborn"/>
-</p>
-
-<p align="center"><b>Machine Learning</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge" alt="Random Forest"/>
-</p>
-
-<p align="center"><b>Deep Learning & NLP</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/NLTK-3B6E8F?style=for-the-badge" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/TF--IDF-6A5ACD?style=for-the-badge" alt="TF-IDF"/>
-</p>
-
-<p align="center"><b>Backend, Deployment & Tools</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -102,12 +83,7 @@
 
 ## 🌱 Learning Next
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-FF4F8B?style=for-the-badge" alt="Agentic AI"/>
-</p>
-
-<p align="center"><sub>LLMs · RAG · AI agents · tool use</sub></p>
+Generative AI · Agentic AI
 
 ---
 
